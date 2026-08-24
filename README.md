@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Rider00786/LeetCode-/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Rider00786/LeetCode-/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Rider00786/LeetCode-/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Rider00786/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rider00786/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rider00786/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rider00786/LeetCode-/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Rider00786/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rider00786/LeetCode-/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rider00786/LeetCode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rider00786/LeetCode-/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rider00786/LeetCode-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
