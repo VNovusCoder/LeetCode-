@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rider00786/LeetCode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Rider00786/LeetCode-/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rider00786/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rider00786/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rider00786/LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rider00786/LeetCode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rider00786/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rider00786/LeetCode-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Rider00786/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rider00786/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rider00786/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rider00786/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rider00786/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rider00786/LeetCode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rider00786/LeetCode-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rider00786/LeetCode-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rider00786/LeetCode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rider00786/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Breadth-First Search
 |  |
 | ------- |
