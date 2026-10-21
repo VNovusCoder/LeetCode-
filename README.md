@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Rider00786/LeetCode-/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/Rider00786/LeetCode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rider00786/LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rider00786/LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Rider00786/LeetCode-/tree/master/0048-rotate-image) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rider00786/LeetCode-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Rider00786/LeetCode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rider00786/LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rider00786/LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rider00786/LeetCode-/tree/master/0131-palindrome-partitioning) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rider00786/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Rider00786/LeetCode-/tree/master/0037-sudoku-solver) |
 | [1207-unique-number-of-occurrences](https://github.com/Rider00786/LeetCode-/tree/master/1207-unique-number-of-occurrences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rider00786/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rider00786/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -235,9 +238,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Rider00786/LeetCode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Rider00786/LeetCode-/tree/master/0048-rotate-image) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Rider00786/LeetCode-/tree/master/3904-smallest-stable-index-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Rider00786/LeetCode-/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Rider00786/LeetCode-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
