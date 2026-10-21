@@ -47,7 +47,7 @@ public:
         for(char i='1' ; i<='9' ; i++){
             if(is_safe(board , row ,col , i)){
                 board[row][col] = i;
-                if(solver(board,row , col )){
+                if(solver(board,nextRow , nextCol )){
                     return true;
                 }
                 // backtracking
