@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rider00786/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rider00786/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rider00786/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rider00786/LeetCode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Rider00786/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rider00786/LeetCode-/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rider00786/LeetCode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Rider00786/LeetCode-/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Rider00786/LeetCode-/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rider00786/LeetCode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rider00786/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rider00786/LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rider00786/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rider00786/LeetCode-/tree/master/0048-rotate-image) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rider00786/LeetCode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Rider00786/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rider00786/LeetCode-/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rider00786/LeetCode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
